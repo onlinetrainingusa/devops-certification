@@ -68,7 +68,7 @@ Collaboration Skills: DevOps emphasizes collaboration. Develop effective communi
 
 Online DevOps Training Platforms:
 
-H2K Infosys: Recognized for providing quality IT training, <a href"https://www.h2kinfosys.com">H2K Infosys</a> offers DevOps courses covering key concepts, tools, and real-world applications. Their courses often include hands-on projects and practical insights into DevOps practices.
+H2K Infosys: Recognized for providing quality IT training, <a href="https://www.h2kinfosys.com/">H2K Infosys</a> offers DevOps courses covering key concepts, tools, and real-world applications. Their courses often include hands-on projects and practical insights into DevOps practices.
 Udemy: Offers a variety of DevOps courses covering different tools and practices. Courses range from beginner to advanced levels.
 
 Coursera: Provides DevOps specialization courses from top universities and organizations, offering a more structured learning path.
